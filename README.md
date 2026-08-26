@@ -336,7 +336,7 @@ Riskline is a decision-support prototype. Its output should not be treated as a 
 ## Author
 
 Built by **Prashant Shahi**
-CSE Student
+
 
 ## References
 
